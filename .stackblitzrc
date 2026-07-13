@@ -1,0 +1,1 @@
+{\n  "installDependencies": true,\n  "startCommand": "npm run dev"\n}\n
